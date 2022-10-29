@@ -8,7 +8,7 @@ def start():
     text = time.strftime("%H:%M:%S")
     Label.config(text = text)
     Label.after(200,start)
-Label = Label(root, font=("DS-Digital",100), fg="white", bg="purple")
+Label = Label(root, font=("DS-Digital",100), fg="orange", bg="purple")
 Label.grid(row=0, column=1)
 print("Programe Done")
 start()
