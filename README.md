@@ -1,3 +1,3 @@
-# Pychart_notebooks
+# Pychart_notebook
 
 
